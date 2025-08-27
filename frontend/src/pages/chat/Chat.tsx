@@ -12,7 +12,7 @@ import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter'
 import { nord } from 'react-syntax-highlighter/dist/esm/styles/prism'
 
 import styles from './Chat.module.css'
-import Contoso from '../../assets/Contoso.svg'
+import Ucitelka from 'https://www.ucitelkazuzka.sk/wp-content/uploads/2023/07/ucitelka-zuzka_horizontal_stacked_color.png'
 import { XSSAllowTags } from '../../constants/sanatizeAllowables'
 
 import {
